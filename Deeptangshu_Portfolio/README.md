@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   <a href="#" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
+    <img src="" alt="Portfolio Website Banner">
   </a>
   <br />
   <div>
