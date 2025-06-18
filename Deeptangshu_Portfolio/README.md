@@ -2,9 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="#" target="_blank">
-    <img src="" alt="Portfolio Website Banner">
-  </a>
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -23,9 +20,7 @@
 2. [Features](#-features)
 
 
---
-
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack I Used in this Project
 
 * **React** – Component-based UI development
 * **Vite** – Lightning-fast build tool
@@ -65,13 +60,6 @@
 
 ---
 
-
-## 🔗 Useful Links
-
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
 * [Vite](https://vitejs.dev/)
 * [Vercel](https://vercel.com/)
 
