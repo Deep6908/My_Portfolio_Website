@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
-  <h3 align="center">Created a Stunning Developer Portfolio with Animations, Dark Mode, and Showcasing Projects</h3>
+  <h3 align="center">Created a Stunning Developer Portfolio with Animations and Dark Mode Toggle functionalities for showcasing my Projects and Skillset</h3>
   <br />
 </div>
 
